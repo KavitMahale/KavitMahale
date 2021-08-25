@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...[Blogger](https://kbmmmk.blogspot.com)
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ..
 -->
