@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kavit Mahale</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+![](https://komarev.com/ghpvc/?username=your-github-username&style=plastic-square)
+
 
 - 🔭 I’m currently working on **Web Development**
 
