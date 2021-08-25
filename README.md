@@ -4,11 +4,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Web Development
-- 🌱 I’m currently learning ...New Technology
-- 👯 I’m looking to collaborate on ...g
+- 🌱 I’m currently learning ...Full Stack Dev
+- 👯 I’m looking to collaborate on ...[Blogger](https://kbmmmk.blogspot.com)
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...[Blogger](https://kbmmmk.blogspot.com)
+- 📫 How to reach me: ...
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ..
 
