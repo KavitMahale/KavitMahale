@@ -11,7 +11,7 @@
 
 - 📝 I write blog on Digital Marketing [https://kbmmmk.blogspot.com](https://kbmmmk.blogspot.com)
 
-- 💬 Ask me about **Angular js, Node js, Javascript, Core java, Html, Css**
+- 💬 Ask me about **Angular js, Python Javascript, Core java, Html, Css**
 
 
 <h3 align="left">Languages and Tools:</h3>
